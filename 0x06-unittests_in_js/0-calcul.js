@@ -3,4 +3,4 @@ function calculateNumber (a, b) {
   return sum;
 }
 
-module.export = calculateNumber
+module.exports = calculateNumber
